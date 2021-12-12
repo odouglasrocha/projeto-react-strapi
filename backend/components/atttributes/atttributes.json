@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_atttributes_atttributes",
+  "info": {
+    "name": "atttributes",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

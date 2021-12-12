@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sizes_sizes",
+  "info": {
+    "name": "sizes",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

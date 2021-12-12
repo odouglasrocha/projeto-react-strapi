@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_atttributes_sizes",
+  "info": {
+    "name": "sizes",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "default": "M",
+      "minLength": 3
+    },
+    "value": {
+      "type": "string",
+      "default": "medium"
+    }
+  }
+}
