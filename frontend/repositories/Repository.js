@@ -1,6 +1,6 @@
 import axios from "axios";
-export const baseDomain = "http://templaterocha.com.br/";
-export const baseUrlProduct = "http://templaterocha.com.br/";
+export const baseDomain = "http://localhost:1337/";
+export const baseUrlProduct = "http://localhost:1337/";
 
 export const customHeaders = {
     Accept: "application/json",
