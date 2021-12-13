@@ -1,7 +1,6 @@
 import axios from "axios";
 export const baseDomain = "http://localhost:3002";
 export const baseUrlProduct = "http://localhost:3002";
-
 export const customHeaders = {
     Accept: "application/json",
 };
