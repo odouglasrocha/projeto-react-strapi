@@ -9,9 +9,9 @@ const ModuleFooterAddress = () => {
             <Logo />
             <div className="ps-footer__title">Our store</div>
             <p>
-                1487 Rocky Horse Carrefour
+                Rua Santa Luzia, 0
                 <br />
-                Arlington, TX 16819
+               Maua SP, CEP 09310-690
             </p>
             <p>
                 <Link href="/">

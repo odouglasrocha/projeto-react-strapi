@@ -5,8 +5,10 @@ const ModuleFooterContact = () => {
         <div className="ps-footer--contact">
             <h5 className="ps-footer__title">Need help</h5>
             <div className="ps-footer__fax">
+                <a href="https://web.whatsapp.com/">
                 <i className="icon-telephone"></i>
-                0020 500 – MYMEDI – 000
+                (55)11 94478-4343 
+                </a>
             </div>
             <p className="ps-footer__work">
                 Monday – Friday: 9:00-20:00
@@ -20,7 +22,7 @@ const ModuleFooterContact = () => {
                     href="mailto:contact@example.com">
                     {" "}
                     <i className="icon-envelope"></i>
-                    contact@example.com{" "}
+                    odouglasrocha@gmail.com{" "}
                 </a>
             </p>
         </div>
