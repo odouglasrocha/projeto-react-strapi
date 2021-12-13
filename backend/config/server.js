@@ -1,5 +1,4 @@
 module.exports = ({ env }) => ({
-  //host: env('HOST', 'ftp.templaterocha2.hospedagemdesites.ws'),
   host: env('HOST', '0.0.0.0'),
   port: env.int('PORT', 3002),
   admin: {
